@@ -3,3 +3,9 @@
 ``` javascript
 var myVAR = "Greetings, Earthlings!";
 ```
+
+
+- [ ] Turn off Lights
+- [ ] Brush your teeth
+- [ ] Get in bed
+- [ ] check this after sleep.
