@@ -5,7 +5,8 @@ var myVAR = "Greetings, Earthlings!";
 ```
 
 
-- [ ] Turn off Lights
-- [ ] Brush your teeth
-- [ ] Get in bed
-- [ ] check this after sleep.
+- [x] Turn off Lights
+- [x} Brush your teeth
+- [x] Get in bed
+- [x] check this after sleep.
+- [ ] open item because yes
